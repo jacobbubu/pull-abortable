@@ -72,7 +72,7 @@
     "singleQuote": true
   },
   "devDependencies": {
-    "@jacobbubu/interleavings": "file:../../interleavings/jacobbubu-interleavings-0.0.0.tgz",
+    "@jacobbubu/interleavings": "^1.1.0",
     "@types/jest": "^25.2.1",
     "@types/node": "^13.11.0",
     "@types/rc": "^1.1.0",
