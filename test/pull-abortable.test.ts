@@ -1,6 +1,6 @@
 import Abortable from '../src/'
 import { test } from '@jacobbubu/interleavings'
-import * as pull from '@jacobbubu/pull-stream'
+import * as pull from 'pull-stream'
 
 describe('basic', () => {
   it('test', (done) => {
